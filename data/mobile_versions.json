@@ -76,7 +76,7 @@
       "sno": 7,
       "version": "1.1.0",
       "build_number": 39,
-      "valid_upto": "2026-08-31",
+      "valid_upto": "2026-07-31",
       "message": null,
       "active_flag": "Y"
     },
@@ -92,6 +92,14 @@
       "sno": 7,
       "version": "1.1.0",
       "build_number": 41,
+      "valid_upto": "2026-07-31",
+      "message": null,
+      "active_flag": "Y"
+    },
+    {
+      "sno": 7,
+      "version": "1.1.0",
+      "build_number": 42,
       "valid_upto": "2026-08-31",
       "message": null,
       "active_flag": "Y"
