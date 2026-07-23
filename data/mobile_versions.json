@@ -38,7 +38,7 @@
       "build_number": 34,
       "valid_upto": "2026-06-30",
       "message": null,
-      "active_flag": "Y"
+      "active_flag": "N"
     },
     {
       "sno": 6,
@@ -46,7 +46,7 @@
       "build_number": 35,
       "valid_upto": "2026-07-31",
       "message": null,
-      "active_flag": "Y"
+      "active_flag": "N"
     },
     {
       "sno": 7,
@@ -54,7 +54,7 @@
       "build_number": 36,
       "valid_upto": "2026-07-31",
       "message": null,
-      "active_flag": "Y"
+      "active_flag": "N"
     },
     {
       "sno": 7,
@@ -62,7 +62,7 @@
       "build_number": 37,
       "valid_upto": "2026-07-31",
       "message": null,
-      "active_flag": "Y"
+      "active_flag": "N"
     },
     {
       "sno": 7,
@@ -70,7 +70,7 @@
       "build_number": 38,
       "valid_upto": "2026-07-31",
       "message": null,
-      "active_flag": "Y"
+      "active_flag": "N"
     },
     {
       "sno": 7,
@@ -78,15 +78,15 @@
       "build_number": 39,
       "valid_upto": "2026-07-31",
       "message": null,
-      "active_flag": "Y"
+      "active_flag": "N"
     },
     {
       "sno": 7,
       "version": "1.1.0",
       "build_number": 40,
-      "valid_upto": "2026-08-31",
+      "valid_upto": "2026-07-31",
       "message": null,
-      "active_flag": "Y"
+      "active_flag": "N"
     },
     {
       "sno": 7,
